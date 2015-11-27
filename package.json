@@ -1,0 +1,18 @@
+{
+  "name": "proj01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "mtg-parser": "^0.1.0",
+    "needle": "^0.11.0",
+    "request": "^2.67.0",
+    "twit": "^2.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
