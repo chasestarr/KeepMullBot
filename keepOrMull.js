@@ -216,4 +216,4 @@ function tweet(){
 	}
 }
 // randomFormat();
-setInterval(randomFormat(),1000 * 15);
+setInterval(randomFormat,1000 * 15);
